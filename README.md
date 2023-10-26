@@ -6,4 +6,4 @@ About HTMLTagGuesser
 
 Team
 ---
-
+Edvin Flodström, Johannes Johansson.
