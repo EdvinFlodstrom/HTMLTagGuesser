@@ -1,7 +1,9 @@
 # HTMLTagGuesser
 App Inventor HTML Tag Guesser
+===
+About HTMLTagGuesser
 ---
-gruppmedlemar
+
+Team
 ---
-Vad appen är/Vilka funtioner finns/Problem vi stötte på./ Hur vi tänkte för att lösa dem.
----
+
